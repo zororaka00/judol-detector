@@ -62,4 +62,4 @@ When the fetch fails, the thrown error includes the HTTP status and body for qui
 
 ## License & Contributions
 
-This project is licensed under the MIT License (`LICENSE`:1-21). Contributions are welcome: fork, patch, and open a pull request or issue on [the repository](package.json:28-31).
+This project is licensed under the [MIT License](LICENSE).
