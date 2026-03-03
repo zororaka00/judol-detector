@@ -1,11 +1,5 @@
 # judol-detector
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/judol-detector"><img src="https://img.shields.io/npm/v/judol-detector.svg" alt="npm version"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
-  <a href="https://github.com/zororaka00/judol-detector/actions"><img src="https://github.com/zororaka00/judol-detector/workflows/Build/badge.svg" alt="Build Status"></a>
-</p>
-
 ## Table of Contents
 
 - [Description](#description)
