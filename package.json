@@ -1,0 +1,42 @@
+{
+  "name": "judol-detector",
+  "version": "1.0.0",
+  "description": "A focused npm library that detects 'judol' phrasing with OpenAI",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "config.json",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "judol",
+    "detector",
+    "openai"
+  ],
+  "author": "Raka Widhi Antoro <rakawidhiantoro@gmail.com>",
+  "license": "MIT",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/zororaka"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zororaka00/judol-detector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zororaka00/judol-detector/issues"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "@types/node-fetch": "^2.6.13",
+    "typescript": "^5.9.3"
+  }
+}
